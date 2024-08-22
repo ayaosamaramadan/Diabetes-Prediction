@@ -1,0 +1,2 @@
+# Diabetes-Prediction
+Ai proj
